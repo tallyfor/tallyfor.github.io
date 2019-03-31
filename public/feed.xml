@@ -12,17 +12,17 @@ http://tallyfor.com
 The Tech behind Tallyfor
 </description>
 <lastBuildDate>
-Sat, 30 Mar 2019 16:00:11 -0700
+Sat, 30 Mar 2019 20:57:34 -0700
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://tallyfor.com/blog/posts-output/2016-01-07-docs
+http://tallyfor.com/posts-output/2016-01-07-docs
 </guid>
 <link>
-http://tallyfor.com/blog/posts-output/2016-01-07-docs
+http://tallyfor.com/posts-output/2016-01-07-docs
 </link>
 <title>
 Quick Start Guide
@@ -97,10 +97,10 @@ Thu, 07 Jan 2016 00:00:00 -0800
 </item>
 <item>
 <guid>
-http://tallyfor.com/blog/posts-output/2018-03-30-readme-post
+http://tallyfor.com/posts-output/2018-03-30-readme-post
 </guid>
 <link>
-http://tallyfor.com/blog/posts-output/2018-03-30-readme-post
+http://tallyfor.com/posts-output/2018-03-30-readme-post
 </link>
 <title>
 Readme First Post!
@@ -118,10 +118,10 @@ Fri, 01 Jan 2016 00:00:00 -0800
 </item>
 <item>
 <guid>
-http://tallyfor.com/blog/posts-output/2014-11-04-second-post
+http://tallyfor.com/posts-output/2014-11-04-second-post
 </guid>
 <link>
-http://tallyfor.com/blog/posts-output/2014-11-04-second-post
+http://tallyfor.com/posts-output/2014-11-04-second-post
 </link>
 <title>
 Yet Another Post
@@ -135,10 +135,10 @@ Tue, 04 Nov 2014 00:00:00 -0800
 </item>
 <item>
 <guid>
-http://tallyfor.com/blog/posts-output/2014-03-10-first-post
+http://tallyfor.com/posts-output/2014-03-10-first-post
 </guid>
 <link>
-http://tallyfor.com/blog/posts-output/2014-03-10-first-post
+http://tallyfor.com/posts-output/2014-03-10-first-post
 </link>
 <title>
 A Post
